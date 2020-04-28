@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "prepare": "babel src -d dist --ignore __tests__ && yarn run fmt",
-    "dev": "start-storybook -p 9000 -c .storybook",
+    "dev": "start-storybook -p 9009 -c .storybook",
     "build": "rm -rf .site && build-storybook -c .storybook -o .site",
     "fmt": "npx prettier {.storybook,src}/**/*.js --single-quote --no-semi --write",
     "coverage": "jest --coverage && serve coverage -o",
