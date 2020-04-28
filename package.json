@@ -1,5 +1,5 @@
 {
-  "name": "@kaoengine/design-system",
+  "name": "@kaoengine/kaorochi",
   "version": "0.0.1-18",
   "description": "Kao Engine Design System",
   "main": "dist/index.js",
@@ -56,10 +56,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaoengine/design-system.git"
+    "url": "git+https://github.com/kaoengine/kaorochi.git"
   },
   "bugs": {
-    "url": "https://github.com/kaoengine/design-system/issues"
+    "url": "https://github.com/kaoengine/kaorochi/issues"
   },
   "homepage": "https://design.kaoengine.com"
 }
