@@ -4,3 +4,4 @@ coverage
 dist
 .site
 .DS_Store
+src/__tests__/*
