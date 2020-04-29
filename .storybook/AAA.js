@@ -61,7 +61,11 @@ storiesOf('👋 Welcome!', module).add('About the project', () => (
       />
     </Flex>
     <Flex align="center" mt={4}>
-      <Avatar src="https://avatars2.githubusercontent.com/t/3777878?s=280&v=4" size={48} mr={2} />
+      <Avatar
+        src="https://avatars2.githubusercontent.com/t/3777878?s=280&v=4"
+        size={48}
+        mr={2}
+      />
       <Text>- @kaoengine</Text>
     </Flex>
   </Fragment>
