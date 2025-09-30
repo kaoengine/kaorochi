@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "@kaoengine/icons": "^0.0.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "palx": "1.0.2",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
